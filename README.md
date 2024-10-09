@@ -15,7 +15,7 @@ https://dacon.io/competitions/official/236381/overview/description
 | ----- | 전처리 방식 교체 & transformer | **현재 전처리 방식 : 총반입량 0이하 데이터 제거 / 평년평균가격 0인 값을 평균가격으로 대체 | 0.2648 |
 | day 8 | 데이터 전처리 | *bfill, ffill을 마지막에 적용하여 모든 값 채움, 성능하락 | 0.3277 |
 | ----- | split_time_series | *시계열 데이터 특성을 반영, split_time_series를 통한 데이터 분할 / 처음 전처리 방식을 적용하면 성능 향상 예상 | 0.2997 |
-| day 9 | | | |
+| day 9 | 차분 | *가격 데이터에 차분을 적용 / 높은 성능 향상 | 0.12444 |
 | day 10 | | | |
 | day 11 | | | |
 | day 12 | | | |
