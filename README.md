@@ -1,5 +1,4 @@
 # DACON 
-데이터·AI를 활용한 물가 예측 경진대회 : 농산물 가격을 중심으로
 
 ![image](https://github.com/user-attachments/assets/895ca4a7-c1f9-4c70-b4c7-6f9767c528f4)
 
